@@ -1,0 +1,6 @@
+[submodule "IceCreamShop"]
+	path = IceCreamShop
+	url = https://github.com/MM-Nazari/IceCreamShop
+[submodule "Tests"]
+	path = Tests
+	url = https://github.com/MM-Nazari/Tests
