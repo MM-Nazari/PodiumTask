@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodiumTask", "PodiumTask.csproj", "{269DD8F5-5729-490E-9DC2-061DD6B1BABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodiumTask", "PodiumTask.csproj", "{269DD8F5-5729-490E-9DC2-061DD6B1BABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamShop", "..\Domain\IceCreamShop.csproj", "{63CF9FF2-FA55-4449-BA12-C04BA8C2C1CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IceCreamShop", "..\Domain\IceCreamShop.csproj", "{63CF9FF2-FA55-4449-BA12-C04BA8C2C1CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{5A73DB0A-447C-45B5-BC87-3FE27F69072B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "..\Tests\Tests.csproj", "{5A73DB0A-447C-45B5-BC87-3FE27F69072B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
